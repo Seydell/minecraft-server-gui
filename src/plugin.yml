@@ -1,0 +1,3 @@
+name: oLLs_Minecraft_Server_GUI_Plugin
+main: com.seydell.minecraft.plugin.gui.Main
+version: 0.1
